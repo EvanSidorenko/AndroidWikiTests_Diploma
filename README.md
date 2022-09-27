@@ -38,26 +38,26 @@ gradle clean android -DdeviceHost=browserstack
 
 <a name="jenkins-Jenkins-job"></a>
 ## :robot: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/012-IvanSidorenko-12_%20regres.inApiTesting/">Параметризированная сборка в Jenkins со всеми тестами</a>
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/012-IvanSidorenko-12_MobileWikiTests/">Параметризированная сборка в Jenkins со всеми тестами</a>
 <p align="center">
-<img title="Jenkins Job Run with parameters" src="images/screenshots/Screenshot_401.png">
+<img title="Jenkins Job Run with parameters" src="images/screenshots/Screenshot_404.png">
 </p>
 
 <a name="report-Allure-отчет"></a>
 ## :bar_chart: Allure отчет
 - ### Главный экран отчета
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screenshots/Screenshot_402.png">
+<img title="Allure Overview Dashboard" src="images/screenshots/Screenshot_405.png">
 </p>
 
 - ### Страница с проведенными тестами
 <p align="center">
-<img title="Allure Test Page" src="images/screenshots/Screenshot_403.png">
+<img title="Allure Test Page" src="images/screenshots/Screenshot_406.png">
 </p>
 
 <a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
 ## :robot: Пример выполнения теста
 <p align="center">
-  <img src="images/screenshots/Screenshot_399.png" alt="job">
+  <img src="images/gif/video-19ec8de59ae810094befd652c4b71092e42708a0.gif" alt="job">
 </p>
 

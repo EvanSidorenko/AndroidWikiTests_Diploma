@@ -2,10 +2,10 @@
 # :page_with_curl: Содержание:
 
 - [Технологии и инструменты](#techno-технологии-и-инструменты)
-- [Запуск из терминала](#arrow_forward-запуск-из-терминала)
+- [Запуск автотестов](#arrow_forward-запуск-из-терминала)
 - [Сборка в Jenkins](#jenkins-Jenkins-job)
 - [Allure отчет](#report-Allure-отчет)
-- [Отчет в Telegram](#telegram-Уведомление-в-Telegram-при-помощи-бота)
+- [Пример выполнения теста](#telegram-Уведомление-в-Telegram-при-помощи-бота)
 
 <a name="techno-технологии-и-инструменты"></a>
 ## :computer: Технологии и инструменты
@@ -37,7 +37,7 @@ gradle clean android -DdeviceHost=browserstack
 ```
 
 <a name="jenkins-Jenkins-job"></a>
-## :robot: Сборки в Jenkins
+## :robot: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/012-IvanSidorenko-12_%20regres.inApiTesting/">Параметризированная сборка в Jenkins со всеми тестами</a>
 <p align="center">
 <img title="Jenkins Job Run with parameters" src="images/screenshots/Screenshot_401.png">
@@ -56,7 +56,6 @@ gradle clean android -DdeviceHost=browserstack
 </p>
 
 ## :robot: Пример выполнения теста
-
 <p align="center">
   <img src="images/screenshots/Screenshot_399.png" alt="job">
 </p>

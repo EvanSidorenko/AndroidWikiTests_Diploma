@@ -55,46 +55,6 @@ gradle clean android -DdeviceHost=browserstack
 <img title="Allure Test Page" src="images/screenshots/Screenshot_403.png">
 </p>
 
-
-<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
-## :robot: Отчет в Telegram
-- ### Telegram notification message (all results)
-<p align="center">
-  <img src="images/screenshots/Screenshot_399.png" alt="job">
-</p>
-
-
-## :arrow_forward: Запуск из терминала
-Локальный запуск:
-```
-gradle clean android -DdeviceHost=local 
-```
-
-Удаленный запуск:
-```
-gradle clean android -DdeviceHost=browserstack
-```
-## <img width="4%" title="Сборка в " src="images/logos/Jenkins.svg"> [Jenkins](https://jenkins.autotests.cloud/job/C12-tevton-unit21/)
-
-<p align="center">
-  <img src="images/screens/Jenkins.png">
-</p>
-
-## <img width="4%" title="Результаты тестов в" src="images/logos/Allure_Report.svg"> [Allure](https://jenkins.autotests.cloud/job/C12-tevton-unit21/allure/)
-<a name="report-Allure-отчет"></a>
-
-## :bar_chart: Allure отчет
-- ### Главный экран отчета
-<p align="center">
-<img title="Allure Overview Dashboard" src="images/screenshots/Screenshot_402.png">
-</p>
-
-- ### Страница с проведенными тестами
-<p align="center">
-<img title="Allure Test Page" src="images/screenshots/Screenshot_403.png">
-</p>
-
-<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
 ## :robot: Пример выполнения теста
 
 <p align="center">

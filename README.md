@@ -55,6 +55,7 @@ gradle clean android -DdeviceHost=browserstack
 <img title="Allure Test Page" src="images/screenshots/Screenshot_403.png">
 </p>
 
+<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
 ## :robot: Пример выполнения теста
 <p align="center">
   <img src="images/screenshots/Screenshot_399.png" alt="job">

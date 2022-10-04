@@ -7,7 +7,7 @@ import org.aeonbits.owner.Config;
         "system:properties",
         "classpath:properties/browserstackDriver.properties"
 })
-public interface BrowserstackKeys extends Config {
+public interface BrowserstackConfig extends Config {
     String username();
     String access_key();
     String project();
